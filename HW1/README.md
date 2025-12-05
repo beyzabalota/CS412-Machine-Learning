@@ -1,4 +1,3 @@
-# CS412 – Machine Learning  
 ## Homework 1: Understanding k-NN and the Curse of Dimensionality  
 **Semester**: Spring 2024  
 **Student**: Beyza Balota, 31232  
