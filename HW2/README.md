@@ -26,17 +26,15 @@ In this part, we perform probabilistic reasoning using the **2017 Kaggle Machine
 
 ## Files
 
+```
 CS412-HW2/
-├── cs412_hw2_notebook.ipynb # Main notebook with code, math, and answers
-├── multipleChoiceResponses.csv # Main responses file (provided)
-├── conversionRates.csv # Currency conversion file (provided)
-├── schema.csv # Explains column names (not loaded, referenced)
-├── README.md # This file
+├── cs412_hw2_notebook.ipynb        # Main notebook with code, math, and answers
+├── multipleChoiceResponses.csv     # Main responses file (provided)
+├── conversionRates.csv             # Currency conversion file (provided)
+├── schema.csv                      # Column explanations (referenced only)
+├── README.md                       # This file
+```
 
-
-
-
- Note: Other dataset files (`freeFormResponses.csv`, `RespondentTypeREADME.txt`) were part of the full zip, but only the relevant ones (`multipleChoiceResponses.csv` and `conversionRates.csv`) were used directly in this homework.
 
 ---
 
