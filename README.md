@@ -2,6 +2,7 @@
 Spring 2023–2024 · Sabancı University
 
 This repository contains all coursework for the CS412 Machine Learning course, taken during the Spring 2023–2024 semester.
+Instructor: Öznur Taştan Okan
 
 ## Contents
 -  **HW1** – Linear Regression and Loss Functions  
