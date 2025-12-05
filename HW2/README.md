@@ -28,11 +28,11 @@ In this part, we perform probabilistic reasoning using the **2017 Kaggle Machine
 
 ```
 CS412-HW2/
-├── cs412_hw2_notebook.ipynb        # Main notebook with code, math, and answers
-├── multipleChoiceResponses.csv     # Main responses file (provided)
-├── conversionRates.csv             # Currency conversion file (provided)
-├── schema.csv                      # Column explanations (referenced only)
-├── README.md                       # This file
+├── CS412-HW2-BeyzaBalota-Code.ipynb   # Main notebook with code, math, and answers
+├── multipleChoiceResponses.csv        # Main responses file (provided)
+├── conversionRates.csv                # Currency conversion file (provided)
+├── schema.csv                         # Column explanations (referenced only)
+├── README.md                          # This file
 ```
 
 
