@@ -1,4 +1,3 @@
-# CS412 – Machine Learning  
 ## Homework 2: MLE, MAP, and Probabilistic Analysis  
 **Semester**: Spring 2024  
 **Student**: Beyza Balota, 31232  
